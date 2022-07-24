@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<style>
+ body{
+background-image:url('https://images.news18.com/ibnlive/uploads/2022/07/allu-arjun-4-1-16579637953x2.jpg');
+background-repeat:no repreat;
+background-size:cover;
+}
+</style>
+<a href="https://www.talentio.in/"target="_blank">click here</a>
+<u1>
+   <li>gorgeous</li>
+   <li>keerthi</li>
+   <li>reddy</li>
+   <li>ammu</li>
+</u1>
+<ol>
+   <li>gorgeous</li>
+   <li>keerthi</li>
+   <li>reddy</li>
+   <li>ammu</li>
+</ol>
+</html>
